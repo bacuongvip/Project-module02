@@ -1,0 +1,104 @@
+* {
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("https://img.meta.com.vn/Data/image/2021/10/01/background-trang-den-1.jpg");
+}
+.head {
+    text-align: center;
+    padding: 100px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 2rem;
+}   
+.head span {
+    background-color: #413d3d;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+.row {
+    padding-inline: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+}
+.card {
+    width: 250px;
+    background-color: #413d3d;
+}
+.card p:nth-child(2) {
+    text-align: center;
+    color: aliceblue;
+}
+.card p:nth-child(3) {
+    height: 60px;
+}
+.card p:nth-child(4) {
+    height: 150px;
+}
+img {
+    width: 100%;
+    height: 150px;
+}
+.card .footer {
+    display: flex;
+    justify-content: space-between;
+    line-height: 20px;
+}
+.footer div:first-child {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.form {
+    display: flex;
+    width: 50px;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+.form .number {
+    color: aqua;
+}
+.form button {
+    width: 15px;
+}
+.tab {
+    margin: 0 auto;
+    width: 1000px;
+}
+table {
+    text-align: center;
+}
+table tr {
+    color:aliceblue;
+}
+table tr td {
+    width: 200px;
+    text-align: center;
+}
+tr td:nth-child(4){
+    position: relative;
+}
+td > div {
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+td > button {
+    background-color: aqua;
+    width: 45px;
+    border-radius: 5px;
+    height: 30px;
+}
+.total {
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.5rem;
+    margin-top : 30px;
+    margin-bottom : 30px;
+}
