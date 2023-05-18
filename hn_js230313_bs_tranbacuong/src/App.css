@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    margin : 0 auto;
+    width: 1000px;
+    margin-top: 100px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.search input{
+    width: 100%;
+    height: 40px;
+    background-color: #e4e2e4;
+    outline-style: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+.elements {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+}
+textarea {
+    background-color: #c7f0c3;
+    width: 100%;
+    height: 200px;
+    outline-style: none;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 1.3rem;
+}
+.elements form {
+    position: relative;
+}
+form span {
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+}
+form p {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+}
