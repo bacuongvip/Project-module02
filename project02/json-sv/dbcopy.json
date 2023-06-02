@@ -1,0 +1,514 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "category": "laptop",
+        "img": "img/list-product/laptop1.jpg",
+        "title": "Laptop Asus Zenbook 14 Flip OLED UP3404VA-KN039W  Intel Core I7-1360P/ 16GB/ 512GB/ ",
+        "price": "31.490.000",
+        "price_old": "32.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 2,
+        "category": "laptop",
+        "img": "img/list-product/laptop2.jpg",
+        "title": "Laptop Asus Zenbook 14 Flip OLED UP5401ZA-KU140W Intel Core i7-12700H / 16GB",
+        "price": "33.990.000",
+        "price_old": "34.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 3,
+        "category": "laptop",
+        "img": "img/list-product/laptop3.jpg",
+        "title": "Asus TUF Gaming A15 FA507NV-LP046W AMD Ryzen 7 7735HS /8GB /512GB /15.6 inch ",
+        "price": "33.790.000",
+        "price_old": "34.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 4,
+        "category": "laptop",
+        "img": "img/list-product/laptop4.jpg",
+        "title": "Asus ExpertBook P2451FA EK3299T i3-10110U /4GB /256GB-SSD /14.0FHD /  W10SL",
+        "price": "7.490.000",
+        "price_old": "8.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 5,
+        "category": "laptop",
+        "img": "img/list-product/laptop5.jpg",
+        "title": "Vivobook ASUS 14X OLED S3405VA-KM071W (Core i9-13900H/ 16GB/ 512GB )",
+        "price": "24.990.000",
+        "price_old": "26.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 6,
+        "category": "laptop",
+        "img": "img/list-product/laptop6.jpg",
+        "title": "Laptop Asus Zenbook OLED UM5302TA-LX087W ( Ryzen 5-6600U/ 8GB/ 512GB/ 13.3 inch/ Win 11 )",
+        "price": "25.490.000",
+        "price_old": "27.090.000",
+        "rate": "0",
+        "quantity": 0
+      },
+      {
+        "id": 7,
+        "category": "laptop",
+        "img": "img/list-product/laptop7.jpg",
+        "title": "Laptop ASUS Vivobook 14X OLED S3405VA-KM072W i5-13500H/ 16GB/ 512GB/ 14 inch OLED/ Win 11",
+        "price": "21.490.000",
+        "price_old": "23.690.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 8,
+        "category": "laptop",
+        "img": "img/list-product/laptop8.jpg",
+        "title": "Laptop Asus Vivobook 15 X1504VA-NJ070W i5-1335U/ 16GB/ 512GB/ 15.6 inch FHD/ Win 11",
+        "price": "31.490.000",
+        "price_old": "32.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 9,
+        "category": "laptop",
+        "img": "img/list-product/laptop9.jpg",
+        "title": "Flip Laptop ASUS Vivobook S14 Flip TP3402VA LZ025W i3 1315U/ 8GB/ 256GB/ 14inch Cảm Ứng/ Win11",
+        "price": "15.690.000",
+        "price_old": "17.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 10,
+        "category": "laptop",
+        "img": "img/list-product/laptop10.jpg",
+        "title": "Laptop Asus VivoBook S14 Flip TP3402VA LZ031W i5 13500H/ RAM 16GB/ 512GB SSD",
+        "price": "20.390.000",
+        "price_old": "22.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 11,
+        "category": "laptop",
+        "img": "img/list-product/laptop11.jpg",
+        "title": "Laptop Asus Vivobook Flip TP3402VA-LZ118W i9-13900H/ 16GB/ 512GB SSD/ Intel UHD/ ",
+        "price": "24.690.000",
+        "price_old": "25.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 12,
+        "category": "laptop",
+        "img": "img/list-product/laptop12.jpg",
+        "title": "Laptop Asus Zenbook 14 OLED UX3402VA-KM203W i5-1340P/ 16GB/ 512GB/ Intel Iris Xe",
+        "price": "25.990.000",
+        "price_old": "27.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 13,
+        "category": "laptop",
+        "img": "img/list-product/laptop13.jpg",
+        "title": "Laptop Asus ROG Strix G15 G513IC-HN729W R7 4800H/ 8GB/ 512GB/ RTX 3050 4GB/ ",
+        "price": "20.990.000",
+        "price_old": "21.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 14,
+        "category": "laptop",
+        "img": "img/list-product/laptop14.jpg",
+        "title": "Laptop Asus ExpertBook B5 B5402FEA-HY0126W ( Core i5 1135G7/ 8GB/ 512GB SSD/)",
+        "price": "16.990.000",
+        "price_old": "28.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 15,
+        "category": "laptop",
+        "img": "img/list-product/laptop15.jpg",
+        "title": "Laptop Asus VivoBook M513UA-EJ710W R7-5700U/ 16GB/ 512GB SSD",
+        "price": "16.990.000",
+        "price_old": "17.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 16,
+        "category": "apple",
+        "img": "img/list-product/apple1.jpg",
+        "title": "Điện Thoại Apple Iphone 14 Pro 128GB Black",
+        "price": "30.990.000",
+        "price_old": "31.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 17,
+        "category": "apple",
+        "img": "img/list-product/apple2.jpg",
+        "title": "Điện Thoại Apple Iphone 14 Pro 128GB Silver",
+        "price": "29.990.000",
+        "price_old": "32.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 18,
+        "category": "apple",
+        "img": "img/list-product/apple3.jpg",
+        "title": "Điện Thoại Apple Iphone 14 Pro 128GB Golden",
+        "price": "31.990.000",
+        "price_old": "32.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 19,
+        "category": "apple",
+        "img": "img/list-product/apple4.jpg",
+        "title": "Điện Thoại Apple Iphone 14 Pro 128GB Deep Purple",
+        "price": "30.990.000",
+        "price_old": "31.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 20,
+        "category": "apple",
+        "img": "img/list-product/apple5.jpg",
+        "title": "Điện Thoại Apple Iphone 14 Plus 128GB Light Purple",
+        "price": "27.990.000",
+        "price_old": "29.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 21,
+        "category": "apple",
+        "img": "img/list-product/apple6.jpg",
+        "title": "Hàng Mới Về Apple iPhone 14 Pro Max 128GB Space Black",
+        "price": "33.990.000",
+        "price_old": "34.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 22,
+        "category": "apple",
+        "img": "img/list-product/apple7.jpg",
+        "title": "Mới Apple iPhone 14 Pro Max 128GB Gold",
+        "price": "33.490.000",
+        "price_old": "34.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 23,
+        "category": "apple",
+        "img": "img/list-product/apple8.jpg",
+        "title": "Apple iPhone 14 Pro Max 128GB Silver",
+        "price": "31.990.000",
+        "price_old": "32.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 24,
+        "category": "apple",
+        "img": "img/list-product/apple9.jpg",
+        "title": "Apple iPhone 14 Pro Max 128GB Deep Purple",
+        "price": "32.990.000",
+        "price_old": "33.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 25,
+        "category": "apple",
+        "img": "img/list-product/apple10.jpg",
+        "title": "Điện Thoại Apple Iphone 14 128GB Blue",
+        "price": "33.990.000",
+        "price_old": "34.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 26,
+        "category": "case",
+        "img": "img/list-product/case1.jpg",
+        "title": "Vỏ Case Darkflash A290 White",
+        "price": "490.000",
+        "price_old": "590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 27,
+        "category": "case",
+        "img": "img/list-product/case2.jpg",
+        "title": "Vỏ Case Darkflash A290 Black",
+        "price": "469.000",
+        "price_old": "490.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 28,
+        "category": "case",
+        "img": "img/list-product/case3.jpg",
+        "title": "Vỏ case Jonsbo MOD3 Pink",
+        "price": "5.490.000",
+        "price_old": "6.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 29,
+        "category": "case",
+        "img": "img/list-product/case4.jpg",
+        "title": "Vỏ Case Corsair iCUE 7000X RGB TG Black",
+        "price": "6.990.000",
+        "price_old": "7.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 30,
+        "category": "case",
+        "img": "img/list-product/case5.jpg",
+        "title": "Vỏ Case Corsair iCUE 7000X RGB TG White",
+        "price": "5.690.000",
+        "price_old": "6.690.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 31,
+        "category": "case",
+        "img": "img/list-product/case6.jpg",
+        "title": "Vỏ Case Corsair 7000D Airflow TG Black",
+        "price": "4.490.000",
+        "price_old": "5.090.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 32,
+        "category": "case",
+        "img": "img/list-product/case7.jpg",
+        "title": "Vỏ Case Corsair iCUE 5000T RGB White",
+        "price": "8.490.000",
+        "price_old": "9.580.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 33,
+        "category": "case",
+        "img": "img/list-product/case8.jpg",
+        "title": "Vỏ Case Corsair iCUE 5000T RGB Black",
+        "price": "3.990.000",
+        "price_old": "4.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 34,
+        "category": "case",
+        "img": "img/list-product/case9.jpg",
+        "title": "Vỏ Case Corsair iCUE 5000D RGB Airflow True White",
+        "price": "4.790.000",
+        "price_old": "5.090.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 35,
+        "category": "case",
+        "img": "img/list-product/case10.jpg",
+        "title": "Vỏ Case Corsair iCUE 5000D RGB Airflow Black",
+        "price": "4.490.000",
+        "price_old": "4.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 36,
+        "category": "case",
+        "img": "img/list-product/case11.jpg",
+        "title": "Vỏ Case Corsair iCUE 5000X RGB QL True White",
+        "price": "5.990.000",
+        "price_old": "6.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 37,
+        "category": "case",
+        "img": "img/list-product/case12.jpg",
+        "title": "Vỏ Case Corsair iCUE 5000X RGB TG Black",
+        "price": "4.550.000",
+        "price_old": "4.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 38,
+        "category": "case",
+        "img": "img/list-product/case13.jpg",
+        "title": "Vỏ Case Corsair iCUE 4000D RGB Airflow True White",
+        "price": "3.290.000",
+        "price_old": "3.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 39,
+        "category": "case",
+        "img": "img/list-product/case14.jpg",
+        "title": "Vỏ Case Corsair iCUE 4000D RGB Airflow Black",
+        "price": "2.490.000",
+        "price_old": "2.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 40,
+        "category": "case",
+        "img": "img/list-product/case15.jpg",
+        "title": "Vỏ Case Corsair iCUE 4000D RGB AIRFLOW QL True White",
+        "price": "4.490.000",
+        "price_old": "4.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 41,
+        "category": "case",
+        "img": "img/list-product/case16.jpg",
+        "title": "Vỏ Case MSI MAG FORGE M100A (4 fan RGB)",
+        "price": "990.000",
+        "price_old": "1.290.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 42,
+        "category": "screen",
+        "img": "img/list-product/screen1.jpg",
+        "title": "Màn Hình Gaming Acer Predator XB253QGX IPS/ FullHD/ 240Hz",
+        "price": "11.490.000",
+        "price_old": "12.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 43,
+        "category": "screen",
+        "img": "img/list-product/screen2.jpg",
+        "title": "Màn hình Gaming Acer VG240Y IPS/ Full HD/ 75Hz",
+        "price": "3.490.000",
+        "price_old": "4.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 44,
+        "category": "screen",
+        "img": "img/list-product/screen3.jpg",
+        "title": "Màn hình Gaming Acer Nitro VG270 IPS/ Full HD/ 75Hz",
+        "price": "4.790.000",
+        "price_old": "4.990.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 45,
+        "category": "screen",
+        "img": "img/list-product/screen4.jpg",
+        "title": "Màn Hình Gaming Acer Nitro VG270 S IPS/ Full HD/ 165Hz",
+        "price": "5.490.000",
+        "price_old": "6.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 46,
+        "category": "screen",
+        "img": "img/list-product/screen5.jpg",
+        "title": "Màn Hình Gaming Acer Nitro VG240Y S 24' FHD IPS 165Hz FreeSync 0.5ms",
+        "price": "5.990.000",
+        "price_old": "6.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 47,
+        "category": "screen",
+        "img": "img/list-product/screen6.jpg",
+        "title": "Màn Hình Đồ Họa Dell P3223QE IPS/ 4K/ 60Hz",
+        "price": "13.990.000",
+        "price_old": "14.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 48,
+        "category": "screen",
+        "img": "img/list-product/screen7.jpg",
+        "title": "Màn Hình Đồ Họa Dell S2421HN - IPS/ Full HD/ 75Hz",
+        "price": "3.990.000",
+        "price_old": "4.290.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 49,
+        "category": "screen",
+        "img": "img/list-product/screen8.jpg",
+        "title": "Màn Hình Gaming Dell Alienware AW2721D IPS/ QHD/ 240Hz",
+        "price": "21.990.000",
+        "price_old": "23.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 50,
+        "category": "screen",
+        "img": "img/list-product/screen9.jpg",
+        "title": "Màn Hình Gaming Dell Alienware AW2521H IPS/ FHD/ 360Hz",
+        "price": "19.990.000",
+        "price_old": "20.590.000",
+        "rate": 0,
+        "quantity": 0
+      },
+      {
+        "id": 51,
+        "category": "screen",
+        "img": "img/list-product/screen10.jpg",
+        "title": "Màn Hình Gaming Dell S3422DWG VA/ WQHD/ 144Hz",
+        "price": "5.990.000",
+        "price_old": "6.590.000",
+        "rate": 0,
+        "quantity": 0
+      }
+    ]
+  }

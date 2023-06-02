@@ -1,0 +1,13 @@
+.container .success {
+    text-align: center;
+    margin-top: 100px;
+}
+.container .success .success-content {
+    font-size: 50px;
+    font-weight: 800;
+}
+.container .success .success-content2 {
+    font-size: 20px;
+    margin: 0 auto;
+    width: 800px;
+}
